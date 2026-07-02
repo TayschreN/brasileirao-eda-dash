@@ -2,6 +2,8 @@
 
 Análise exploratória de 21 anos e 8.785 partidas do Brasileirão, orientada a perguntas de negócio (não só descrição estatística). Projeto de portfólio focado em storytelling analítico: cada seção parte de uma pergunta, testa uma hipótese nos dados e termina em um insight acionável.
 
+https://brasileirao-eda-dash.onrender.com - Dashboard Online
+
 ![Dashboard](imagens/tela1.png)
 ![Dashboard](imagens/tela2.png)
 ![Dashboard](imagens/tela3.png)
